@@ -1,1 +1,1 @@
-c# ile hava tahmin uygulaması
+c# ile hava tahmin uygulaması visual studio ile yapılmıştır
